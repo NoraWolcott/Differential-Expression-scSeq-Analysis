@@ -9,4 +9,5 @@ A pipeline for differential gene expression and pathway analysis of RNA-seq data
 ## Reference
 
 Wolf, F. A., Angerer, P., & Theis, F. J. (2018). SCANPY: large-scale single-cell gene expression data analysis. Genome Biology, 19, 15. https://doi.org/10.1186/s13059-017-1382-0
+
 Fang, Z., & Liu, X. (2022). GSEApy: a comprehensive package for performing gene set enrichment analysis in Python. Bioinformatics, 38(13), 3957–3958. https://doi.org/10.1093/bioinformatics/btac507
